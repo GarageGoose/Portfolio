@@ -1,3 +1,12 @@
-h1{
+.q1{
+    text-align: left;
+    background-color: antiquewhite;
+}
+.q2{
     text-align: center;
+    background-color: bisque;
+}
+.q3{
+    text-align: right;
+    background-color: blanchedalmond;
 }
